@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Q1_ContaTelefonica
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Q1_ContaTelefonica\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=mes\ ano\ numContrato
+comment1.target=Q1_ContaTelefonica(int,\ int,\ int)
+comment10.params=novaLigacao
+comment10.target=void\ addLigacao(Q1_Ligacao)
+comment11.params=num
+comment11.target=int\ totalConta(int)
+comment2.params=mes
+comment2.target=void\ setMes(int)
+comment3.params=
+comment3.target=int\ getMes()
+comment4.params=ano
+comment4.target=void\ setAno(int)
+comment5.params=
+comment5.target=int\ getAno()
+comment6.params=numContrato
+comment6.target=void\ setNumContrato(int)
+comment7.params=
+comment7.target=int\ getNumContrato()
+comment8.params=listaLigacoes
+comment8.target=void\ setListaLigacoes(Q1_Ligacao[])
+comment9.params=
+comment9.target=Q1_Ligacao[]\ getListaLigacoes()
+numComments=12

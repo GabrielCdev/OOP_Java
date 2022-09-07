@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Q2_Comerciais
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Q2_Comerciais\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=produto\ valor
+comment1.target=Q2_Comerciais(java.lang.String,\ float)
+comment2.params=produto
+comment2.target=void\ setProduto(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getProduto()
+comment4.params=valor
+comment4.target=void\ setValor(float)
+comment5.params=
+comment5.target=float\ getValor()
+numComments=6
