@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Q3_Faculdade
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Q3_Faculdade\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=nome\ curso\ anoIngresso\ qtdDiscAprov
+comment1.target=Q3_Faculdade(java.lang.String,\ java.lang.String,\ int,\ int)
+comment10.params=
+comment10.target=int\ calcularCreditos()
+comment11.params=anoAtual
+comment11.target=int\ calcTempoFaculdade(int)
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=curso
+comment4.target=void\ setCurso(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCurso()
+comment6.params=anoIngresso
+comment6.target=void\ setAnoIngresso(int)
+comment7.params=
+comment7.target=int\ getAnoIngresso()
+comment8.params=qtdDiscAprov
+comment8.target=void\ setQtdDiscAprov(int)
+comment9.params=
+comment9.target=int\ getQtdDiscAprov()
+numComments=12

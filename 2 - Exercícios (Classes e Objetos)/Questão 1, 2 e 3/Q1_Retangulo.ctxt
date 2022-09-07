@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Q1_Retangulo
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Q2_RETANGULO\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=comp\ larg
+comment1.target=Q1_Retangulo(float,\ float)
+comment2.params=comp
+comment2.target=void\ setComp(float)
+comment3.params=
+comment3.target=float\ getComp()
+comment4.params=larg
+comment4.target=void\ setLarg(float)
+comment5.params=
+comment5.target=float\ getLarg()
+comment6.params=
+comment6.target=float\ calcPerimetro()
+comment7.params=
+comment7.target=float\ calcArea()
+numComments=8
