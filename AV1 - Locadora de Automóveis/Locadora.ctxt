@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Locadora
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Locadora\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=inicioContrato\ fimContrato
+comment1.target=Locadora(java.lang.String,\ java.lang.String)
+comment2.params=inicioContrato
+comment2.target=void\ setInicioContrato(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getInicioContrato()
+comment4.params=fimContrato
+comment4.target=void\ setFimContrato(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getFimContrato()
+comment6.params=diaria
+comment6.target=float\ calculoLocacao(int)
+numComments=7
